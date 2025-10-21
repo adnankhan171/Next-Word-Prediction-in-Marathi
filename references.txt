@@ -1,0 +1,9 @@
+https://medium.com/data-science/word-level-english-to-marathi-neural-machine-translation-using-seq2seq-encoder-decoder-lstm-model-1a913f2dc4a7
+
+https://github.com/l3cube-pune/MarathiNLP/blob/main/L3Cube-MahaSocialNER/README.md
+
+https://huggingface.co/Abhi964/MahaPhrase_mahaBERTv2_Finetuning
+
+https://www.researchgate.net/publication/361657506_NEXT_WORD_PREDICTION_USING_LSTM
+
+https://arxiv.org/abs/2103.11408
